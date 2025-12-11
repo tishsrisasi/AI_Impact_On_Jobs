@@ -1,0 +1,12 @@
+Presentation Slide Timing (4 minutes in total)
+
+1. <=5 seconds - Title & Dataset chosen
+2. 40 seconds (0.45) - Fear of machines taking our jobs not a new concept - as shown by word
+3. 40 seconds (1.25) - Brainstorm on what we think the dataset should tell us - no. 1 focus on
+4. 40 seconds (2.05) - What we learnt before the deep-dive? How would we predict this?
+5. 40 seconds (2.45) - Data set challenges - no good correlation & all averages same - need FE
+6. 40 seconds (3.25) - 2 new features added - also we are looking at predicting l/m/h not binary
+7. 35 seconds (4.00) - Finish with team members and pass to Baba and Volodymyr
+
+Leaving 2 x 6 minute windows for demo of 2 dashboards
+
