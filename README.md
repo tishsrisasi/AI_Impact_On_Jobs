@@ -305,7 +305,7 @@ From our research we found LogisticAT - a model bundled as part of the Multinomi
 
 - **Multinomial Statsmodels** \- LogisticAT
 
-- Random Forrest/Hyperparameter Tuning**
+- **Random Forrest/Hyperparameter Tuning**
 
 #### What did we discover?
 
