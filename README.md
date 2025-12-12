@@ -2,7 +2,7 @@
 (Friday 5<sup>th</sup> December 2025 to Tuesday 9<sup>th</sup> December 2025)
 
 
-## Hackathon One - Group B Team Member
+## Hackathon One - Group B Team Members
 
 - **Babatunde ('Baba') Mushafau**
 - **Volodymyr ('Volo') Babunych**
