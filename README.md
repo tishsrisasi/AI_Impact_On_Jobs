@@ -1,19 +1,7 @@
-# AI Impact on Jobs in 2023 (ReadMe file)
+# "Will AI Take Your Job By 2030" for Hackathon One (Friday 5<sup>th</sup> December 2025 to Tuesday 9<sup>th</sup> December 2025)
 
-#### Hackathon (Official) Dates: Friday 5<sup>th</sup> December 2025 to Tuesday 9<sup>th</sup> December 2025
 
-#### Proposed Working Title: "Will AI Take Your Job By 2025"
-
-**Origins of the word "Sabotage"**
-
-- Song by the _Beastie Boys_, 1994.
-- Modern World Meaning:
-
-"deliberately damaging, obstructing, or undermining something to weaken or stop it, especially in a workplace, political, or military context."
-
-- From French folklore: Disgruntled factory workers threw wooden shoes, or _'sabot'_ into machines to disrupt production.
-
-# Hackathon One - Group B Team Member
+## Hackathon One - Group B Team Member
 
 - **Babatunde ('Baba') Mushafau**
 - **Volodymyr ('Volo') Babunych**
