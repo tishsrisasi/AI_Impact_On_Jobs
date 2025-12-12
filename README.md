@@ -247,7 +247,7 @@ We used our 'weapons of choice': I was very familiar with Excel and Volo was the
 
 #### What did we discover?
 
-<div class="joplin-table-wrapper"><table><tbody><tr><th><p><strong>At-risk Jobs</strong></p></th><th><ul>Truck Drivers</li>Customer Support</li>Construction Worker</li>Security Guard</li>Retail worker</li></ul></th></tr><tr><td><p><strong>Safe-for-Now Jobs</strong></p></td><td><ul>AI Engineer</li>Research Scientist</li>Nurses</li>Teachers</li>Doctors</li></ul></td></tr><tr><td><p><strong>All other jobs</strong></p></td><td><p>Approx. 50/50 chance of survival in 2030</p></td></tr></tbody></table></div>
+<div class="joplin-table-wrapper"><table><tbody><tr><th><p><strong>At-risk Jobs</strong></p></th><th><ul>Truck Drivers, </li>Customer Support, </li>Construction Worker, </li>Security Guard, </li>Retail worker</li></ul></th></tr><tr><td><p><strong>Safe-for-Now Jobs</strong></p></td><td><ul><strong>AI Engineer, </li>Research Scientist, </li>Nurses, </li>Teachers, </li>Doctors</li></ul></td></tr><tr><td><p><strong>All other jobs</strong></p></td><td><ul><strong>Approx. 50/50 chance of survival in 2030</p></td></tr></tbody></table></div>
 
 The above is based purely on the value of the Risk Category and Automation Probability 2030 scores. However, we also discovered that the data was 'too synthetic' to provide any insights or any way of predicting the target variables (Risk Category and/or Automation Probability 2030) without taking a deeper look. We agreed as a group that the dataset, as it stands, was unusable (as noted in our findings below).
 
