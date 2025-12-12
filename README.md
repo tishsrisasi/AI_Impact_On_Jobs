@@ -1,8 +1,8 @@
 # AI Impact on Jobs in 2023 (ReadMe file)
 
-## Hackathon (Official) Dates: Friday 5<sup>th</sup> December 2025 to Tuesday 9<sup>th</sup> December 2025
+#### Hackathon (Official) Dates: Friday 5<sup>th</sup> December 2025 to Tuesday 9<sup>th</sup> December 2025
 
-## Proposed Working Title: "Will AI Take Your Job By 2025"
+#### Proposed Working Title: "Will AI Take Your Job By 2025"
 
 **Origins of the word "Sabotage"**
 
