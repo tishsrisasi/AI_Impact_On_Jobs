@@ -234,11 +234,11 @@ _Please note for all new features below AI was used to provide accurate group an
 
 These were the question we wanted the dataset to provide answers for:
 
-- Which jobs are most likely to be replaced by AI?
-- What factors (if any) are driving the ever-growing pace of AI in the job market?
-- Is there a link between Exposure to AI & AI Automation Probability?
-- Are we training AI to replace us?
-- Financial Status: Are the higher-earning jobs at risk?
+1. Which jobs are most likely to be replaced by AI?
+2. What factors (if any) are driving the ever-growing pace of AI in the job market?
+3. Is there a link between Exposure to AI & AI Automation Probability?
+4. Are we training AI to replace us?
+5. Financial Status: Are the higher-earning jobs at risk?
 
 ## Exploring the Data
 
@@ -299,17 +299,17 @@ Not having much luck with the 'synth' AI dataset overall (see above 'quick and d
 
 #### How we did it
 
-### From our research we found LogisticAT - a model bundled as part of the Multinomial Statsmodels Python library. We prepared and ran the AI Jobs 2030 dataset through the following to see which gave us the best accuracy scores
+From our research we found LogisticAT - a model bundled as part of the Multinomial Statsmodels Python library. We prepared and ran the AI Jobs 2030 dataset through the following to see which gave us the best accuracy scores
 
-### **Ordinal Scikit-Learn** - Logistic Regression
+- **Ordinal Scikit-Learn** - Logistic Regression
 
-### **Multinomial Statsmodels** \- LogisticAT
+- **Multinomial Statsmodels** \- LogisticAT
 
-### **Random Forrest/Hyperparameter Tuning**
+- Random Forrest/Hyperparameter Tuning**
 
 #### What did we discover?
 
-### Random Forrest had the best score here - **99.33%** prediction accuracy
+Random Forrest had the best score here - **99.33%** prediction accuracy
 
 ### Dashboard Coding & Design
 
