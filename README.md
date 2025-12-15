@@ -1,4 +1,4 @@
-# "Will AI Take Your Job By 2030" for Hackathon One 
+# "Will AI Take Your Job By 2030?" for Hackathon One 
 (Friday 5<sup>th</sup> December 2025 to Tuesday 9<sup>th</sup> December 2025)
 
 
