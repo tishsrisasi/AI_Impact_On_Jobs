@@ -225,9 +225,9 @@ with tab3:
         with st.form("prediction_form"):
             salary_input = st.number_input(
                 "Average Annual Salary",
-                min_value=30000,
+                min_value=3000,
                 max_value=150000,
-                value=30000,
+                value=3000,
                 step=1000
             )
                 
